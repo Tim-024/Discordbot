@@ -1,0 +1,23 @@
+{
+  "name": "tim-bot",
+  "version": "1.0.0",
+  "description": "Een bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "tim",
+    "bot"
+  ],
+  "author": "Tim Bögels",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
